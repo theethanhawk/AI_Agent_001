@@ -6,8 +6,7 @@ instruction_str = """\
     2. The final line of code should be a Python expression that can be called with the `eval()` function.
     3. The code should represent a solution to the query.
     4. PRINT ONLY THE EXPRESSION.
-    5. Do not quote the expression.
-    6. If the agent is asked to save a prompt result to the notes.txt file make sure to utilize the note_engine"""
+    5. Do not quote the expression."""
 
 new_prompt = PromptTemplate(
     """\
