@@ -1,0 +1,4 @@
+I am a good agent
+The note function is working
+The note engine is working as expected.
+Population of Canada: Please find the current population statistics for Canada.
